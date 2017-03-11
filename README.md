@@ -1,6 +1,8 @@
 # DatePickerView
 日期选择器
 
+<video width="658" height="444" src="DatePickerView/device-2017-03-11-222019.mp4" poster="http://www.youname.com/images/first.png" autoplay="autoplay"></video>
+
 # How to
 
 To get a Git project into your build:
